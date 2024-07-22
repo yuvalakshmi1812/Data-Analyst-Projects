@@ -12,7 +12,7 @@ The Total Sales sheet aggregates sales data by year, month, and coffee type. Thi
 - Yearly and monthly breakdown of sales.
 - Sales figures for different types of coffee: Arabica, Excelsa, Liberica, and Robusta.
 
-### Country BarChart
+### Country Bar Chart
 The Country Bar Chart sheet visualizes sales distribution by country. This geographical analysis helps in understanding the market reach and identifying key regions with high sales volumes.
 
 ### Top 5 Customers
