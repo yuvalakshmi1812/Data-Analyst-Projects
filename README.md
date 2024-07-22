@@ -43,6 +43,6 @@ Analyzing product data helps in optimizing the product mix and pricing strategie
 This project demonstrates the power of data analysis in uncovering valuable business insights. By leveraging detailed datasets and visualizations, businesses can make informed decisions to drive sales growth, enhance customer satisfaction, and optimize product offerings. The Coffee Orders Analysis Project serves as a template for similar analyses in other retail and e-commerce domains.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/coffee-orders-analysis.git`
+1. Clone the repository: `git clone https://github.com/yuvalakshmi1812/coffee-orders-analysis.git`
 2. Open the Excel file: `coffeeOrdersProject.xlsx`
 3. Explore the various sheets and analyses to gain insights into the coffee orders data.
